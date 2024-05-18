@@ -160,6 +160,10 @@
       <Project>{4b79862c-8bf5-41a5-9910-510dfc77b934}</Project>
       <Name>BankLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BankModel\BankModel.csproj">
+      <Project>{1f890d34-8a46-41cf-9458-7b63a46dd682}</Project>
+      <Name>BankModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\BankLogo.png" />
