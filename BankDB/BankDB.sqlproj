@@ -57,4 +57,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Accounts.sql" />
+    <Build Include="Deposits.sql" />
+    <Build Include="Withdraws.sql" />
+  </ItemGroup>
 </Project>
