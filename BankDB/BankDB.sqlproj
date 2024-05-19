@@ -61,5 +61,17 @@
     <Build Include="Accounts.sql" />
     <Build Include="Deposits.sql" />
     <Build Include="Withdraws.sql" />
+    <Build Include="Accounts_Insert.sql" />
+    <Build Include="ChangePassword.sql" />
+    <Build Include="Deposit_Insert.sql" />
+    <Build Include="Deposit_Money.sql" />
+    <Build Include="GetAccountForForgotPassword.sql" />
+    <Build Include="GetAccountForLogin.sql" />
+    <Build Include="GetAllDeposits.sql" />
+    <Build Include="GetAllWithdraws.sql" />
+    <Build Include="Transfer_Money.sql" />
+    <Build Include="VerifyNameForTransfer.sql" />
+    <Build Include="Withdraw_Insert.sql" />
+    <Build Include="Withdraw_Money.sql" />
   </ItemGroup>
 </Project>
