@@ -1,0 +1,3 @@
+This C# desktop banking application, built with WinForms and Microsoft SQL Server, simulates a basic banking system. It features user authentication (login, signup, and password recovery) for secure access. Upon login, users are greeted with a dashboard displaying their account balance and options for deposits, withdrawals, and transfers.
+
+The Profile Section allows users to view their personal details and change their password. A detailed transaction history for deposits and withdrawals is available for users to track their finances. The application is structured with separate forms for each feature, demonstrating skills in UI design, data handling, and SQL database management.
